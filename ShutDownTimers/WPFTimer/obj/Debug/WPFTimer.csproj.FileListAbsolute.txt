@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\bin\Debug\WPFTimer.exe.config
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\bin\Debug\WPFTimer.exe
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\bin\Debug\WPFTimer.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\App.g.cs
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer_MarkupCompile.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer_MarkupCompile.lref
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\MainWindow.baml
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.g.resources
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.Properties.Resources.resources
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.exe
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\WPFTimer\obj\Debug\WPFTimer.pdb

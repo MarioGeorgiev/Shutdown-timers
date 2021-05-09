@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.AssemblyInfo.cs
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\bin\Debug\netcoreapp2.1\ConsoleTimer.deps.json
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\bin\Debug\netcoreapp2.1\ConsoleTimer.runtimeconfig.json
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\bin\Debug\netcoreapp2.1\ConsoleTimer.runtimeconfig.dev.json
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\bin\Debug\netcoreapp2.1\ConsoleTimer.dll
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\bin\Debug\netcoreapp2.1\ConsoleTimer.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.dll
+C:\Users\Mario\Documents\Visual Studio 2017\C#_Projects\C#OOP\ShutDownTimers\ConsoleTimer\obj\Debug\netcoreapp2.1\ConsoleTimer.pdb

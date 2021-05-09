@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTimer"
+        mc:Ignorable="d"
+        Title="MarioTimer" Height="414.474" Width="261.184">
+    <Grid>
+        <Button Content="Shutdown" HorizontalAlignment="Left" Height="41" Margin="40,125,0,0" VerticalAlignment="Top" Width="169" Click="Shutdown" RenderTransformOrigin="-1.473,0.381"/>
+        <Button Content="Restart" HorizontalAlignment="Left" Height="41" Margin="40,192,0,0" VerticalAlignment="Top" Width="169" Click="Restart"/>
+        <Button Content="Abort" HorizontalAlignment="Left" Height="41" Margin="40,265,0,0" VerticalAlignment="Top" Width="169" Click="Abort"/>
+        <ComboBox Name="timeList" HorizontalAlignment="Left" Height="26" Margin="40,80,0,0" VerticalAlignment="Top" Width="169">
+            <ComboBoxItem Content="2h" HorizontalAlignment="Left" Width="167"/>
+            <ComboBoxItem Content="1,5h" HorizontalAlignment="Left" Width="167"/>
+            <ComboBoxItem Content="1h" HorizontalAlignment="Left" Width="167" IsSelected="True"/>
+            <ComboBoxItem Content="45m" HorizontalAlignment="Left" Width="167"/>
+            <ComboBoxItem Content="30m" HorizontalAlignment="Left" Width="167"/>
+            <ComboBoxItem Content="15m" HorizontalAlignment="Left" Width="167"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
